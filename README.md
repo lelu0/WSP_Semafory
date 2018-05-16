@@ -4,6 +4,6 @@ str. 80 - przykład
 str. 83 - treść zadania 8.3.2  
   
 Wywołania:  
-./init
+./init  
 ./prod nr steps  
 ./cons steps  
